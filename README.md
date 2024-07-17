@@ -11,5 +11,4 @@ You need to set environment. So in the fisrt Raspberry run the bash `createAP.sh
 	dilag_luc
 	thales721
 	manu__09
-
-		```
+```
