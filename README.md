@@ -9,6 +9,7 @@ You need to set environment. So in the fisrt Raspberry run the bash `createAP.sh
 # Authors: 
 ```
 	dilag_luc
-	Ibrahima D. aka ibradev
-	Wissem M. aka Wissem
-	Emmanuel D. aka manu__09 ```
+	thales721
+	manu__09
+
+		```
