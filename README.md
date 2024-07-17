@@ -8,7 +8,7 @@ You need to set environment. So in the fisrt Raspberry run the bash `createAP.sh
 
 # Authors: 
 ```
-Luc Dieu-Donné A. aka dilag_luc
+	dilag_luc
 	Ibrahima D. aka ibradev
 	Wissem M. aka Wissem
 	Emmanuel D. aka manu__09 ```
